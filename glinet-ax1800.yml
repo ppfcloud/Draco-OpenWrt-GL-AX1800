@@ -30,7 +30,7 @@ feeds:
   - name: kenzok8_small
     uri: https://github.com/kenzok8/small.git
     branch: master
-    revision: ace37f762a36e29c3dbb4d4b87084f547a1b4127
+    revision: eaebb79bf83b25af1fabdf5c5e4c437ebd64745e
   - name: jd_dailybonus
     uri: https://github.com/jerrykuku/luci-app-jd-dailybonus
     branch: master
